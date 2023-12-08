@@ -1,6 +1,6 @@
 # flutter_animations
 
-A new Flutter project.
+Created with Flutter version 3.16.2.
 
 ## Getting Started
 
